@@ -1,0 +1,51 @@
+#zero {
+    color: aqua;
+}
+
+#first{
+    color: purple;
+    font-style:italic ;
+}
+
+#second{
+    background-color: aqua;
+    padding: 10px;
+    margin-right: 20px;
+}
+
+.renditja{
+    width: 50px;
+    margin-top:20px;
+ }
+
+#renditja2{   
+    width: 50px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.renditja3{
+    width: 24%;
+}
+
+.textalign{
+    margin-top: -340px;
+    margin-left: 220px;
+    text-align: left;
+}
+
+.textalign2{
+    margin-left: 220px;
+    text-align: left;
+}
+
+.textalign3{
+    
+    margin: -20px;
+    margin-left: 250px;
+    text-align: left;
+}
+#footer{
+    width:100%;
+    background-color: aqua;
+}
